@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ChaitraA97!
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building efficient and scalable software solutions. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in DevOps tools and building efficient and scalable software solutions . Here's a little bit about me:
 
 ## 🚀 About Me
 - 💼 Currently working as a Senior Systems Engineer at Infosys Pvt. Ltd.
