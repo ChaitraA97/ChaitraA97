@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building efficient and scalable software solutions. Here's a little bit about me:
 
 ## 🚀 About Me
-- 💼 Currently working as a Senior Software Engineer at Infosys Pvt. Ltd.
+- 💼 Currently working as a Senior Systems Engineer at Infosys Pvt. Ltd.
 - 🎓 Graduated with a degree in BE from VTU
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about Python, DevOps
