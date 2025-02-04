@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm ChaitraA97!
 
-<!--
-**ChaitraA97/ChaitraA97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building efficient and scalable software solutions. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💼 Currently working as a Senior Software Engineer at Infosys Pvt. Ltd.
+- 🎓 Graduated with a degree in BE from VTU
+- 🌱 Always learning and exploring new technologies
+- 💬 Ask me about Python, DevOps
+- 📫 Reach me at chai291097@gmail.com
+## 🛠️ Technologies & Tools
+- **Languages:** Python
+- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![ChaitraA97's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitraA97&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitraA97&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Feel free to explore my repositories and get in touch if you’d like to collaborate on any project. Let's create something amazing together!
