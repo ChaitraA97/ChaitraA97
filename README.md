@@ -12,7 +12,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Languages:** Python
 - **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
 
-## 📈 GitHub Stats
-![ChaitraA97's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitraA97&show_icons=true&theme=radical)
-
 Feel free to explore my repositories and get in touch if you’d like to collaborate on any project. Let's create something amazing together!
